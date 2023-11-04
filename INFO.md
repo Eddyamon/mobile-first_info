@@ -27,7 +27,7 @@ version for a tablet or PC, which is created by adding interactions,
 
 
 #### Graceful Degradation
-    on the contrary, starts the product design from
+on the contrary, starts the product design from
  an advanced end like desktop and builds a version with well-rounded 
 features at the beginning. Then designers make the product
  compatible with mobile ends by cutting some functions or contents.
