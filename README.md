@@ -82,10 +82,10 @@ based on device screen or width.
 
 4. Flexbox and Grid Layout- used for arranging and aligning features at your desirably locations.
 
-5.Interractive features like buttons and links must be touch friendly 
+5. Interractive features like buttons and links must be touch friendly 
 as in viscible enough to be seen and touched.
 
-6.images and vidoes are set to 100% width to ensure it's visible on both desktop and mobile devices.
+6. Images and vidoes are set to 100% width to ensure it's visible on both desktop and mobile devices.
 
 7. Progressive Enhancement- apply css to enchance the user experience on larger screens. 
 
